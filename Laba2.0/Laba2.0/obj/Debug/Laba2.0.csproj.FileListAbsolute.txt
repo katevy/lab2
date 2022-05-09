@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Laba2.0\Laba2.0\bin\Debug\Laba2.0.exe.config
+C:\Users\User\source\repos\Laba2.0\Laba2.0\bin\Debug\Laba2.0.exe
+C:\Users\User\source\repos\Laba2.0\Laba2.0\bin\Debug\Laba2.0.pdb
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2.0.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2._0.MainForm.resources
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2._0.ContactTypeForm.resources
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2._0.Properties.Resources.resources
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2.0.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2.0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2.0.exe
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2.0.pdb
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2._0.PersonListForm.resources
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2._0.PersonEditForm.resources
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\User\source\repos\Laba2.0\Laba2.0\obj\Debug\Laba2.0.csproj.ResolveComReference.cache
